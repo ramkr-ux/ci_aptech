@@ -1,18 +1,30 @@
-*/config/development
-*/logs/log-*.php
-!*/logs/index.html
-*/cache/*
-!system/cache/*
-!*/cache/index.html
-!*/cache/.htaccess
+# Writable directories for logs, cache, and temp files
+writable/logs/*
+!writable/logs/index.html
+!writable/logs/.htaccess
 
+writable/cache/*
+!writable/cache/index.html
+!writable/cache/.htaccess
+
+writable/temp/*
+!writable/temp/index.html
+!writable/temp/.htaccess
+
+# Ignore environment files
+.env
+
+# Vendor folder (if using Composer)
+vendor/
+
+# Ignore build files
 user_guide_src/build/*
 user_guide_src/cilexer/build/*
 user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
 
-#codeigniter 3
-application/logs/*
-!application/logs/index.html
-!application/logs/.htaccess
-/vendor/
+# Operating system and editor-specific files
+.DS_Store
+Thumbs.db
+*.idea/
+*.vscode/
