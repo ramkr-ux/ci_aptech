@@ -1,0 +1,455 @@
+/* media */
+@media screen and (max-width: 1440px) {
+
+    /* header */
+    .main-nav-box {
+        padding: 15px 0;
+    }
+
+    .header-sec nav.main-nav-box .navbar-nav .nav-link {
+        padding: 6px 9px;
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .custom-btn {
+        padding: 10px 22px;
+        font-size: 16px;
+    }
+
+    .header-logo {
+        font-size: 27px;
+        line-height: 31px;
+    }
+
+    .header-logo img {
+        height: 51px;
+    }
+
+    /* ./header */
+    /* banner  */
+    .banner-sec {
+        min-height: 650px;
+    }
+
+    .banner-title {
+        font-size: 47px;
+        line-height: 63.74px;
+    }
+
+    .banner-sec .content-box {
+        max-width: 647px;
+    }
+
+    .banner-sec .banner-title {
+        padding: 21px 0 28px;
+    }
+
+    .custom-pad {
+        padding: 75px 0;
+    }
+
+    /* ./banner */
+
+
+
+    .top-header h2 {
+        font-size: 39px;
+        line-height: 46.5px;
+    }
+
+
+
+    p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    /* footer */
+    .footer-link li a {
+        font-size: 18px;
+        line-height: 25.11px;
+    }
+
+    .footer-link li:not(:last-child) a {
+        margin-bottom: 10px;
+    }
+
+    .footer-sec .footer-title {
+        font-size: 18px;
+        line-height: 25.11px;
+        margin: 0 0 16px;
+    }
+
+    .call-card .content-box>* {
+        font-size: 18px;
+        line-height: 28.11px;
+    }
+
+    .call-card .icon-box {
+        width: 53px;
+        height: 53px;
+        font-size: 19px;
+    }
+
+    .letter-wrapper .submit-icon {
+        width: 57px;
+        font-size: 19px;
+    }
+
+    .footer-sec .form-group input[type="text"] {
+        padding: 13px 15px;
+        font-size: 15px;
+    }
+
+    .media-box .icon {
+        width: 45px;
+        height: 46px;
+        font-size: 19px;
+    }
+
+    .media-box {
+        gap: 9px;
+    }
+
+    .footer-nav li a {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .footer-nav {
+        gap: 15px;
+    }
+
+    /* ./footer */
+    /* blog */
+    .b-card .img-box img {
+        min-width: 243px;
+    }
+
+    .b-card {
+        gap: 20px;
+    }
+
+    .b-card .content-box>ul li {
+        font-size: 14px;
+    }
+
+    .b-card .content-box h3 {
+        font-size: 25px;
+        line-height: 29.69px;
+    }
+
+    .more-btn {
+        font-size: 16px;
+    }
+
+    .b-card .date p:first-child {
+        font-size: 22px;
+        line-height: 25.69px;
+    }
+
+    .b-card .date p:last-child {
+        font-size: 16px;
+        line-height: 23.46px;
+    }
+
+    .b-card .date {
+        top: 15px;
+        left: 16px;
+        width: 57px;
+        padding: 5px;
+    }
+
+    /* ./blog */
+    /* contact sec */
+    .form-group .form-control {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .c-card .content-box p {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .c-card .icon {
+        height: 85px;
+        font-size: 30px;
+    }
+
+    .c-card {
+        margin: -74px -74px 0 auto;
+        max-width: 385px;
+    }
+
+    /* ./contact sec */
+    /* cta  */
+    .counter-box .sub-box h4 {
+        font-size: 30px;
+        line-height: 37.77px;
+    }
+
+    .counter-box .sub-box p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .cta-sec .left-box {
+        padding-right: 132px;
+    }
+
+    /* cta */
+    /* card two sec */
+    .sm-card h3 {
+        font-size: 16px;
+        line-height: 20.46px;
+    }
+
+    .sm-card .img-box img {
+        width: 79%;
+    }
+
+    /* ./card two sec */
+    /* card one sec */
+    .sr-card h3 {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+        font-size: 21px;
+        line-height: 33.69px;
+    }
+
+    .sr-card .num {
+        font-size: 25px;
+        line-height: 34.31px;
+    }
+
+    .sr-card .icon-box img {
+        height: 50px;
+    }
+
+    .sr-card .card-top {
+        padding-bottom: 39px;
+    }
+
+    .card-one-sec .card-top-part .top-header {
+        max-width: 600px;
+    }
+
+    /* ./card one sec */
+    /* tab sec */
+    .custom-tabs .nav-item .nav-link {
+        font-size: 22px;
+        line-height: 28.72px;
+        padding: 17px 27px;
+    }
+
+    .custom-tabs {
+        padding-bottom: 40px;
+    }
+
+    .tab-content .right-box ul li:not(:last-child) {
+        margin-bottom: 11px;
+    }
+
+    .tab-content .right-box ul li {
+        font-size: 20px;
+        line-height: 24.55px;
+    }
+
+    .tab-content .right-box ul li::before {
+        margin-right: 9px;
+        font-size: 20px;
+    }
+
+    .tab-content .right-box ul {
+        padding: 23px 0;
+    }
+
+    .tab-sec .top-header {
+        padding-bottom: 30px;
+    }
+
+    /*  tab sec */
+    .testimonial-sec .nav-btn-box > * {
+        font-size: 35px;
+        width: 38px;
+    }
+    .auth-box img {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+
+    /* navbar  */
+    .header-sec nav.main-nav-box .navbar-nav .nav-link {
+        padding: 8px 10px;
+        font-size: 16px;
+    }
+
+    .custom-btn {
+        padding: 10px 22px;
+        font-size: 16px;
+    }
+
+    .main-nav-box {
+        padding: 10px 0;
+    }
+
+    .header-logo {
+        font-size: 21px;
+        line-height: 27px;
+    }
+
+    .header-sec {
+        top: 22px;
+    }
+
+    /* ./navbar */
+    /* banner  */
+
+
+    .banner-sec .banner-title {
+        padding: 14px 0;
+    }
+
+    .banner-title {
+        font-size: 45px;
+        line-height: 55.74px;
+    }
+
+    .custom-pad {
+        padding: 60px 0;
+    }
+
+    /* ./banner */
+    /* card sec */
+    .top-header h2 {
+        font-size: 32px;
+        line-height: 42.5px;
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 991px) {
+    .humbar-btn {
+        order: 1;
+    }
+
+    .main-nav-box .custom-btn {
+        margin-left: auto;
+        line-height: 17.85px;
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+
+    .main-nav-box .offcanvas-body {
+        padding-top: 0;
+    }
+
+    .header-sec nav.main-nav-box .navbar-nav .nav-link {
+        display: inline-block;
+    }
+
+    p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+
+    .top-header h2 {
+        font-size: 25px;
+        line-height: 35.5px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    /* counter sec */
+    .counter-box .sub-box {
+        width: 46%;
+        flex: inherit;
+        max-width: 186px;
+    }
+
+    .counter-box {
+        flex-wrap: wrap;
+        max-width: 95%;
+        margin: 0 auto;
+        justify-content: center;
+        gap: 35px 67px;
+    }
+
+    /* ./counter sec */
+    /* banner sec */
+    .banner-title {
+        font-size: 36px;
+        line-height: 48.74px;
+    }
+
+    .top-title {
+        font-size: 16px;
+        line-height: 21px;
+        padding-left: 31px;
+    }
+
+    .top-title::before {
+        width: 25px;
+    }
+
+    /* ./banner sec */
+    /* card sec */
+    .top-header h2 {
+        font-size: 21px;
+        line-height: 27.5px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 570px) {
+
+    /* nav */
+    .main-nav-box {
+        padding: 8px 0;
+    }
+
+    .custom-btn {
+        line-height: 17.85px;
+        padding: 6px 14px;
+        font-size: 13px;
+    }
+
+    /* ./nav */
+    /* banner sec */
+    .top-title {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .custom-pad {
+        padding: 37px 0;
+    }
+
+    .banner-title {
+        font-size: 26px;
+        line-height: 36.74px;
+    }
+
+    h1.banner-title {
+        padding: 10px 0;
+    }
+
+    /* banner sec */
+
+}

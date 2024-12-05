@@ -1,0 +1,243 @@
+<?php return array (
+  'search' => 
+  array (
+    'Config/Services' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\xampp\\htdocs\\ci_aptechh\\app\\Config\\Services.php',
+          1 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Config\\Services.php',
+        ),
+      ),
+    ),
+    'Config/Registrar.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+        ),
+      ),
+    ),
+    'Helpers/kint_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Helpers\\kint_helper.php',
+        ),
+      ),
+    ),
+    'Helpers/url_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Helpers\\url_helper.php',
+        ),
+      ),
+    ),
+    'Helpers/form_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Helpers\\form_helper.php',
+        ),
+      ),
+    ),
+    'Config/Events.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\xampp\\htdocs\\ci_aptechh\\app\\Config\\Events.php',
+        ),
+      ),
+    ),
+    'Config/Filters.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\xampp\\htdocs\\ci_aptechh\\app\\Config\\Filters.php',
+          1 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Config\\Filters.php',
+        ),
+      ),
+    ),
+    'Helpers/array_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Helpers\\array_helper.php',
+        ),
+      ),
+    ),
+    'Config/Routes.php' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\xampp\\htdocs\\ci_aptechh\\app\\Config\\Routes.php',
+        ),
+      ),
+    ),
+    'Language/en/HTTP.php' => 
+    array (
+      'php' => 
+      array (
+        0 => 
+        array (
+          0 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Language\\en\\HTTP.php',
+        ),
+      ),
+    ),
+    'Helpers/filesystem_helper' => 
+    array (
+      'php' => 
+      array (
+        1 => 
+        array (
+          0 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Helpers\\filesystem_helper.php',
+        ),
+      ),
+    ),
+  ),
+  'findQualifiedNameFromPath' => 
+  array (
+    'C:\\xampp\\htdocs\\ci_aptechh\\app\\Config\\Services.php' => 'Config\\Services',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Cache\\ClearCache.php' => 'CodeIgniter\\Commands\\Cache\\ClearCache',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Cache\\InfoCache.php' => 'CodeIgniter\\Commands\\Cache\\InfoCache',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\CreateDatabase.php' => 'CodeIgniter\\Commands\\Database\\CreateDatabase',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\Migrate.php' => 'CodeIgniter\\Commands\\Database\\Migrate',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\MigrateRefresh.php' => 'CodeIgniter\\Commands\\Database\\MigrateRefresh',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\MigrateRollback.php' => 'CodeIgniter\\Commands\\Database\\MigrateRollback',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\MigrateStatus.php' => 'CodeIgniter\\Commands\\Database\\MigrateStatus',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\Seed.php' => 'CodeIgniter\\Commands\\Database\\Seed',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\ShowTableInfo.php' => 'CodeIgniter\\Commands\\Database\\ShowTableInfo',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Encryption\\GenerateKey.php' => 'CodeIgniter\\Commands\\Encryption\\GenerateKey',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\CellGenerator.php' => 'CodeIgniter\\Commands\\Generators\\CellGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\CommandGenerator.php' => 'CodeIgniter\\Commands\\Generators\\CommandGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\ConfigGenerator.php' => 'CodeIgniter\\Commands\\Generators\\ConfigGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\ControllerGenerator.php' => 'CodeIgniter\\Commands\\Generators\\ControllerGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\EntityGenerator.php' => 'CodeIgniter\\Commands\\Generators\\EntityGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\FilterGenerator.php' => 'CodeIgniter\\Commands\\Generators\\FilterGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\MigrationGenerator.php' => 'CodeIgniter\\Commands\\Generators\\MigrationGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\ModelGenerator.php' => 'CodeIgniter\\Commands\\Generators\\ModelGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\ScaffoldGenerator.php' => 'CodeIgniter\\Commands\\Generators\\ScaffoldGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\SeederGenerator.php' => 'CodeIgniter\\Commands\\Generators\\SeederGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\TestGenerator.php' => 'CodeIgniter\\Commands\\Generators\\TestGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\ValidationGenerator.php' => 'CodeIgniter\\Commands\\Generators\\ValidationGenerator',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\cell.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\cell_view.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\command.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\config.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\controller.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\entity.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\filter.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\migration.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\model.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\seeder.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\test.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\validation.tpl.php' => false,
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Help.php' => 'CodeIgniter\\Commands\\Help',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Housekeeping\\ClearDebugbar.php' => 'CodeIgniter\\Commands\\Housekeeping\\ClearDebugbar',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Housekeeping\\ClearLogs.php' => 'CodeIgniter\\Commands\\Housekeeping\\ClearLogs',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\ListCommands.php' => 'CodeIgniter\\Commands\\ListCommands',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Server\\Serve.php' => 'CodeIgniter\\Commands\\Server\\Serve',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Translation\\LocalizationFinder.php' => 'CodeIgniter\\Commands\\Translation\\LocalizationFinder',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\ConfigCheck.php' => 'CodeIgniter\\Commands\\Utilities\\ConfigCheck',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Environment.php' => 'CodeIgniter\\Commands\\Utilities\\Environment',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\FilterCheck.php' => 'CodeIgniter\\Commands\\Utilities\\FilterCheck',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Namespaces.php' => 'CodeIgniter\\Commands\\Utilities\\Namespaces',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Optimize.php' => 'CodeIgniter\\Commands\\Utilities\\Optimize',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\PhpIniCheck.php' => 'CodeIgniter\\Commands\\Utilities\\PhpIniCheck',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Publish.php' => 'CodeIgniter\\Commands\\Utilities\\Publish',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes.php' => 'CodeIgniter\\Commands\\Utilities\\Routes',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\AutoRouteCollector.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\AutoRouteCollector',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\AutoRouterImproved\\AutoRouteCollector.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\AutoRouterImproved\\AutoRouteCollector',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\AutoRouterImproved\\ControllerMethodReader.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\AutoRouterImproved\\ControllerMethodReader',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\ControllerFinder.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\ControllerFinder',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\ControllerMethodReader.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\ControllerMethodReader',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\FilterCollector.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\FilterCollector',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\FilterFinder.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\FilterFinder',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\SampleURIGenerator.php' => 'CodeIgniter\\Commands\\Utilities\\Routes\\SampleURIGenerator',
+  ),
+  'getClassname' => 
+  array (
+    'C:\\xampp\\htdocs\\ci_aptechh\\app\\Config\\Filters.php' => 'Config\\Filters',
+    'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Config\\Filters.php' => 'CodeIgniter\\Config\\Filters',
+  ),
+  'listFiles' => 
+  array (
+    'Commands/' => 
+    array (
+      0 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Cache\\ClearCache.php',
+      1 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Cache\\InfoCache.php',
+      2 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\CreateDatabase.php',
+      3 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\Migrate.php',
+      4 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\MigrateRefresh.php',
+      5 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\MigrateRollback.php',
+      6 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\MigrateStatus.php',
+      7 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\Seed.php',
+      8 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Database\\ShowTableInfo.php',
+      9 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Encryption\\GenerateKey.php',
+      10 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\CellGenerator.php',
+      11 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\CommandGenerator.php',
+      12 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\ConfigGenerator.php',
+      13 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\ControllerGenerator.php',
+      14 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\EntityGenerator.php',
+      15 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\FilterGenerator.php',
+      16 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\MigrationGenerator.php',
+      17 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\ModelGenerator.php',
+      18 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\ScaffoldGenerator.php',
+      19 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\SeederGenerator.php',
+      20 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\TestGenerator.php',
+      21 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\ValidationGenerator.php',
+      22 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\cell.tpl.php',
+      23 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\cell_view.tpl.php',
+      24 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\command.tpl.php',
+      25 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\config.tpl.php',
+      26 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\controller.tpl.php',
+      27 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\entity.tpl.php',
+      28 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\filter.tpl.php',
+      29 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\migration.tpl.php',
+      30 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\model.tpl.php',
+      31 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\seeder.tpl.php',
+      32 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\test.tpl.php',
+      33 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Generators\\Views\\validation.tpl.php',
+      34 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Help.php',
+      35 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Housekeeping\\ClearDebugbar.php',
+      36 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Housekeeping\\ClearLogs.php',
+      37 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\ListCommands.php',
+      38 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Server\\Serve.php',
+      39 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Translation\\LocalizationFinder.php',
+      40 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\ConfigCheck.php',
+      41 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Environment.php',
+      42 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\FilterCheck.php',
+      43 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Namespaces.php',
+      44 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Optimize.php',
+      45 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\PhpIniCheck.php',
+      46 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Publish.php',
+      47 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes.php',
+      48 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\AutoRouteCollector.php',
+      49 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\AutoRouterImproved\\AutoRouteCollector.php',
+      50 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\AutoRouterImproved\\ControllerMethodReader.php',
+      51 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\ControllerFinder.php',
+      52 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\ControllerMethodReader.php',
+      53 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\FilterCollector.php',
+      54 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\FilterFinder.php',
+      55 => 'C:\\xampp\\htdocs\\ci_aptechh\\vendor\\codeigniter4\\framework\\system\\Commands\\Utilities\\Routes\\SampleURIGenerator.php',
+    ),
+  ),
+);

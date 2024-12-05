@@ -1,0 +1,36 @@
+CRITICAL - 2024-12-03 06:51:43 --> TypeError: CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+[Method: GET, Route: home]
+in SYSTEMPATH\HTTP\SiteURI.php on line 407.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(381): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\frontend\header.php(16): base_url(null)
+ 4 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci_aptechh\\app\\Views\\frontend\\header.php')
+ 5 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\View\View.php(487): CodeIgniter\View\View->render('frontend/header', null, true)
+ 7 APPPATH\Views\frontend\layout.php(34): CodeIgniter\View\View->include('frontend/header')
+ 8 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci_aptechh\\app\\Views\\frontend\\layout.php')
+ 9 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('frontend/layout', [], true)
+11 APPPATH\Controllers\Homepage.php(17): view('frontend/layout', [...])
+12 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Homepage->index()
+13 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Homepage))
+14 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+18 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_aptechh\\public\\index.php')
+CRITICAL - 2024-12-03 06:53:31 --> ErrorException: Undefined variable $headerLogo
+[Method: POST, Route: update-header-logo]
+in APPPATH\Views\admin\headersettings.php on line 16.
+ 1 APPPATH\Views\admin\headersettings.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $headerLogo', 'C:\\xampp\\htdocs\\ci_aptechh\\app\\Views\\admin\\headersettings.php', 16)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci_aptechh\\app\\Views\\admin\\headersettings.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/headersettings', [], true)
+ 5 APPPATH\Controllers\Header\Headerlogo.php(35): view('admin/headersettings')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Header\Headerlogo->updateLogo()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Header\Headerlogo))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_aptechh\\public\\index.php')
